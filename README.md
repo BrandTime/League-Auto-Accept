@@ -4,7 +4,7 @@ An automatic receiving game tool for League of Legends.
 
 ## Thanks
 
-https://github.com/molenzwiebel/Mimic/
+[Mimic](https://github.com/molenzwiebel/Mimic/)
 
 ## License
 
