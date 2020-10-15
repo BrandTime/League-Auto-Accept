@@ -1,0 +1,16 @@
+﻿<Window x:Class="Conduit.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conduit"
+        mc:Ignorable="d"
+        Title="LOL阿狸自动接受" Height="215" Width="500" ResizeMode="NoResize" Closing="Window_Closing">
+    <Grid>
+
+        <Image x:Name="Logo" HorizontalAlignment="Left" Height="80" Margin="21,37,0,0" VerticalAlignment="Top" Width="80" />
+        <Label x:Name="AboutTitle" Content="LOL阿狸自动接受 v1.0.0" HorizontalAlignment="Left" Margin="132,38,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" FontFamily="Arial"/>
+        <Label Content="By: Time丨Brand" HorizontalAlignment="Left" Margin="132,89,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Button Content="更新地址" Click="OpenGithub" HorizontalAlignment="Left" Margin="370,0,0,26" VerticalAlignment="Bottom" Width="97" FontSize="14"/>
+    </Grid>
+</Window>
