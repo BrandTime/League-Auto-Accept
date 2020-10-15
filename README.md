@@ -8,4 +8,4 @@ https://github.com/molenzwiebel/Mimic/
 
 ## License
 
-The conduit component of Mimic is released under the [MIT](https://github.com/molenzwiebel/Mimic/blob/master/LICENSE) license. See the index README for more info.
+The League Auto Accept is released under the [MIT](https://github.com/BrandTime/League-Auto-Accept/blob/master/LICENSE) license. See the index README for more info.
